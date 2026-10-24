@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lwohh
-- 👀 I’m interested in Data Science & Analytics
+- 👀 I’m interested in Software & Data Engineering
 - 📫 How to reach me https://www.linkedin.com/in/canyonwhite
 - 😄 Pronouns: he/him
